@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Pedro!
 
-<!--
-**PedroKcz/PedroKcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently the Android Tech Leader at [James Delivery](https://jamesdelivery.com.br)
 
-Here are some ideas to get you started:
+- My favorite programming languages is **Kotlin**
+- I love building apps with **Jetpack Compose** and **Lottie**
+- My favorite books are: [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), [Clean Architecture]( https://www.goodreads.com/book/show/18043011-clean-architecture), and [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Take a look on my projects!
+- [Space](https://github.com/PedroKcz/space) - An MVI app using NASA's Api, Jetpack Compose, Clean Architecture and more
+- [monster-hot-swapping](https://github.com/PedroKcz/monster-hot-swapping) - An app to showcase hot swapping two different implementations of an interface
+
+<div><br>
+ <a href="https://github.com/PedroKcz">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=PedroKcz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKcz&layout=compact&langs_count=2&theme=gotham"/>
+</div>  
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marcos-derkacz-7322b5113/)
+
+  
