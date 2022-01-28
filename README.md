@@ -2,7 +2,7 @@
 
 I'm currently the Android Tech Leader at [James Delivery](https://jamesdelivery.com.br)
 
-- My favorite programming languages is **Kotlin**
+- My favorite programming language is **Kotlin**
 - I love building apps with **Jetpack Compose** and **Lottie**
 - My favorite books are: [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), [Clean Architecture]( https://www.goodreads.com/book/show/18043011-clean-architecture), and [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 
