@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro!
 
-I'm currently working at [PicPay](https://jamesdelivery.com.br)
+I'm currently working at [PicPay](https://www.picpay.com/site)
 
 - My favorite programming language is **Kotlin**
 - I love building apps with **Jetpack Compose** and **Lottie**
