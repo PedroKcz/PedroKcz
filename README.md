@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro!
 
-I'm currently working at [PicPay](https://www.picpay.com/site)
+I'm currently working at [Bitso](https://bitso.com/)
 
 - My favorite programming language is **Kotlin**
 - I love building apps with **Jetpack Compose** and **Lottie**
