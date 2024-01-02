@@ -9,7 +9,6 @@ I'm currently working at [Bitso](https://bitso.com/)
 #### Take a look on my projects!
 - [Hyrule Compendium](https://github.com/PedroKcz/Hyrule-Compendium) - An MVI app using Hyrule Compendium's Api, Jetpack Compose, Clean Architecture and more
 - [Space](https://github.com/PedroKcz/space) - An MVI app using NASA's Api, Jetpack Compose, Clean Architecture and more
-- [monster-hot-swapping](https://github.com/PedroKcz/monster-hot-swapping) - An app to showcase hot swapping two different implementations of an interface
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marcos-derkacz-7322b5113/)
